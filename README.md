@@ -4,7 +4,7 @@ A single-player Go (Baduk) board for Android, with a computer opponent. 9x9,
 13x13 and 19x19, area scoring, configurable komi and handicap, and a territory
 overlay.
 
-Package: `com.ablweb.gobaduk`
+Package: `com.ablweb.simplego`
 Source: https://github.com/ablweb/SimpleGo
 
 ## Licence
