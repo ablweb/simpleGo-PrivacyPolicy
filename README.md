@@ -7,7 +7,7 @@ A single-player Go (Baduk) board for Android, with a computer opponent. 9x9,
 overlay.
 
 Package: `com.ablweb.simplego`
-Source: https://github.com/ablweb/SimpleGo
+Source: https://github.com/ablweb/simpleGo-PrivacyPolicy
 
 ## Licence
 
