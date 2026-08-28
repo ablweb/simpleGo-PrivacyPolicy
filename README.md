@@ -1,3 +1,5 @@
+<img src="docs/icon.png" alt="Simple Go app icon" width="96" height="96">
+
 # Simple Go
 
 A single-player Go (Baduk) board for Android, with a computer opponent. 9x9,
